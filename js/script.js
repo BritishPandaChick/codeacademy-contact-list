@@ -1,6 +1,5 @@
 var friends = new Object();
 
-
 var friends = {
   bill: {
     firstName: "Bill",
@@ -11,7 +10,7 @@ var friends = {
   steve: {
     firstName: "Steve",
     lastName: "Jobs",
-    number: "(206 455-5556)"
+    number: "(206 455-5556)",
     address: ['1989 Apple Road', 'Palo Alto', 'CA', '93948']
   }
 };

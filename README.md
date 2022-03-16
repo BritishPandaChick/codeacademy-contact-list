@@ -1,11 +1,11 @@
-# Codeacademy Contact List
-Contact list project from Codeacademy JavaScript section. Made with HTML and JavaScript.
+# Codecademy Contact List
+Contact list project from Codecademy JavaScript section.
 
 ## Instructions
 Clone or download zip file. Open index.html file in your browser.
 
 ## Contributing
-This repository is based on starter code from Codeacademy. Therefore I will not be accepting any pull requests.
+This repository is based on starter code from Codecademy. Therefore I will not be accepting any pull requests.
 
 ## Acknowledgements
-* Codeacademy
+* Codecademy
